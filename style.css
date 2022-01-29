@@ -5,6 +5,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+img {
+    max-width: 100%;
+}
+
 div.maintence {
     width: 100%;
     height: 100vh;
@@ -12,4 +16,6 @@ div.maintence {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding: 0 16px;
+    text-align: center;
 }
